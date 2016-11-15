@@ -1,0 +1,4 @@
+1. Poœciagniêciu bibliotek o nazwie "OneWire" oraz "DS18B20" nie wypakowujemy ich, a dodajemy poprzez wejœcie w oprogramowanie Arduino i dalej Szkic->Importuj bibliotekê->Add library... i wybieramy nasze 2 spakowane biblioteki.
+2. Potem wystarczy z³o¿yæ uk³ad tak jak na obrazku.
+3. Odpalamy poprzez oprogramowanie Arduino œci¹gniêty programik w formacie ino.
+4 Jeœli coœ nie dzia³a, prosze o kontakt na adres e-mail d.zboralski5@gmail.com.

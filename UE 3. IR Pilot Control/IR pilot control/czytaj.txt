@@ -1,0 +1,22 @@
+1 Je¿eli wyskakuje ci b³¹d "Odmowy dostêpu" gdy zapisa³eœ przycisk i chcesz go przetestowaæ 
+  to musisz uruchomiæ aplikacje jako administrator.
+
+2. ¯eby zamkn¹æ aplikacje naciœnij przycisk "Close Application".
+
+3."Double Clicked" jest do tego ¿e niektóre piloty majê pod jednym przyciskiem dwa kody. A po
+   drugie jest to po to ¿e jak przytrzymasz przycisk to wyœle tylko raz informacje o wciœniêciu
+   a nie non stop.
+4.  
+* ¯eby zaprogramowaæ przycisk na dan¹ czynnoœæ to klikamy dwa razy na przycisk. Je¿eli pilot po
+  przytrzymaniu przycisku wysy³a kod 0xFFFFFFFF  to musisz tak klikn¹æ ¿eby nie by³o tego bo 
+  potem przy u¿ywani programu bêdzie siê psu³o.
+
+* Nastêpnie piszemy jaki klawisz ma byæ zasymulowany. Do przycisków np. ESC zapisujemy to w ten
+  sposób {ESC} . Tabelka z przyciskami tu pod linkiem: http://msdn.microsoft.com/en-us/library/8c6yea83(VS.85).aspx 
+  Mo¿emy wybraæ np. jaki klawisz specjalny ma byæ wciœniêty. CTRL, ALT lub SHIFT.
+
+* Klikamy "Save" i powinno siê dodaæ do tabeli.
+
+5. Na dole po prawej stronie jest historia wciskanych klawiszy na pilocie.
+
+6. Podwójne klikniêcie w tabeli spowoduje usuniêcie zakodowanego przycisku.

@@ -1,0 +1,1 @@
+Odbiornik IR podlaczony pod pin 11 w Arduino
